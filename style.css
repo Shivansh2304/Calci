@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif;
-  background-color: rgb(168, 168, 255);
+  background-color: rgb(153, 153, 234);
   overflow-y: hidden;
   overflow-x: hidden;
 }
